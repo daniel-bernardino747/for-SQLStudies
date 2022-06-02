@@ -1,0 +1,1 @@
+ALTER TABLE table_general DROP COLUMN e_dop;
