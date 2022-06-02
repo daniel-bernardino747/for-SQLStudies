@@ -1,0 +1,1 @@
+SELECT avg(e_Age) AS avg_age, e_dept FROM table_general GROUP BY e_dept HAVING avg_age > 30 ORDER BY avg_age DESC

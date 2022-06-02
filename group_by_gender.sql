@@ -1,0 +1,1 @@
+SELECT avg(e_Age), e_Gender FROM table_general GROUP BY e_Gender
