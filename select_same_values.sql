@@ -1,0 +1,1 @@
+SELECT DISTINCT e_Gender FROM table_general;

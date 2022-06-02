@@ -1,0 +1,1 @@
+SELECT * FROM table_general WHERE e_Name LIKE '%Bernardino';
