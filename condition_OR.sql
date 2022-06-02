@@ -1,0 +1,1 @@
+SELECT * FROM table_general WHERE (e_Gender='m' AND e_Age<30) OR (e_Gender='f' AND e_Age>30)

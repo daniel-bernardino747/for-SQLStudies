@@ -1,0 +1,1 @@
+SELECT * FROM table_general WHERE NOT e_dept='TI';
